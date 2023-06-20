@@ -1,0 +1,15 @@
+C:\Users\ugurt\Desktop\dotnet\değişkenler\bin\Debug\net7.0\değişkenler.exe
+C:\Users\ugurt\Desktop\dotnet\değişkenler\bin\Debug\net7.0\değişkenler.deps.json
+C:\Users\ugurt\Desktop\dotnet\değişkenler\bin\Debug\net7.0\değişkenler.runtimeconfig.json
+C:\Users\ugurt\Desktop\dotnet\değişkenler\bin\Debug\net7.0\değişkenler.dll
+C:\Users\ugurt\Desktop\dotnet\değişkenler\bin\Debug\net7.0\değişkenler.pdb
+C:\Users\ugurt\Desktop\dotnet\değişkenler\obj\Debug\net7.0\değişkenler.csproj.AssemblyReference.cache
+C:\Users\ugurt\Desktop\dotnet\değişkenler\obj\Debug\net7.0\değişkenler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ugurt\Desktop\dotnet\değişkenler\obj\Debug\net7.0\değişkenler.AssemblyInfoInputs.cache
+C:\Users\ugurt\Desktop\dotnet\değişkenler\obj\Debug\net7.0\değişkenler.AssemblyInfo.cs
+C:\Users\ugurt\Desktop\dotnet\değişkenler\obj\Debug\net7.0\değişkenler.csproj.CoreCompileInputs.cache
+C:\Users\ugurt\Desktop\dotnet\değişkenler\obj\Debug\net7.0\değişkenler.dll
+C:\Users\ugurt\Desktop\dotnet\değişkenler\obj\Debug\net7.0\refint\değişkenler.dll
+C:\Users\ugurt\Desktop\dotnet\değişkenler\obj\Debug\net7.0\değişkenler.pdb
+C:\Users\ugurt\Desktop\dotnet\değişkenler\obj\Debug\net7.0\değişkenler.genruntimeconfig.cache
+C:\Users\ugurt\Desktop\dotnet\değişkenler\obj\Debug\net7.0\ref\değişkenler.dll
